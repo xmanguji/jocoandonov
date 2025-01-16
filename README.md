@@ -1,15 +1,15 @@
-📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
+📢 Nominate ([@xmanguji](https://github.com/xmanguji/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
+<a href="https://www.linkedin.com/in/xmanguji" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
 [**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
 [**[For Companies](https://tally.so/r/3lldZB)**]
 [**[For Developers](https://tally.so/r/3j9Qza)**]
 
-[**[Chat With Me](https://www.linkedin.com/in/dimetrix)**]
-[**[Work With Me](https://www.linkedin.com/in/dimetrix)**]
-[**[Newsletters](https://idimetrix.substack.com)**]
+[**[Chat With Me](https://www.linkedin.com/in/xmanguji)**]
+[**[Work With Me](https://www.linkedin.com/in/xmanguji)**]
+[**[Newsletters](https://xmanguji.substack.com)**]
 
 <p align="center">
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
@@ -27,24 +27,24 @@
 <a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
-[**[My CV - Build CV](https://github.com/idimetrix/cv)**]
-[**[My README - Build README](https://github.com/idimetrix/idimetrix)**]
-[**[My WEBSITE - Build WEBSITE](https://github.com/idimetrix/idimetrix.github.io)**]
+[**[My CV - Build CV](https://github.com/xmanguji/cv)**]
+[**[My README - Build README](https://github.com/xmanguji/xmanguji)**]
+[**[My WEBSITE - Build WEBSITE](https://github.com/xmanguji/xmanguji.github.io)**]
 
 ---
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@idimetrix-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@xmanguji-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 ---
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Xmanguju (xm).
 
 <p>
-    <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
-    <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
-    <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
+    <a href="https://github.com/xmanguji/xmanguji"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/xmanguji/xmanguji/graphs/contributors"><img src="https://img.shields.io/github/contributors/xmanguji/xmanguji?color=blue"></a>
+    <a href="https://github.com/xmanguji/xmanguji/stargazers"><img src="https://img.shields.io/github/stars/xmanguji/xmanguji.svg?logo=github"></a>
+    <a href="https://github.com/xmanguji/xmanguji/network/members"><img src="https://img.shields.io/github/forks/xmanguji/xmanguji.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=xmanguji" alt="visitors"/>   
 </p>
 
 I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
@@ -56,29 +56,29 @@ Welcome to my page; on my Github, you can find:
 
 ## 📧 You can contact me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xmanguji/)
 
 _I am open to new opportunities/contributions._
 
 ## 🔎 You can find me on:
 
 <a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/xmanguji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xmanguji/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xmanguji)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
 
 ## Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/xmanguji/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/xmanguji/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/xmanguji/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/xmanguji/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## 🔖 Featured repositories:
 
-[![CTO, Software Architect, Technical Lead](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=idimetrix)](https://github.com/idimetrix/idimetrix)
-[![Free CV Maker with Print-Friendly Responsive Layout](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=cv)](https://github.com/idimetrix/cv)
-[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-talents)](https://github.com/idimetrix/awesome-talents)
-[![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-job-boards)](https://github.com/idimetrix/awesome-job-boards)
+[![CTO, Software Architect, Technical Lead](https://github-readme-stats.vercel.app/api/pin/?username=xmanguji&repo=xmanguji)](https://github.com/xmanguji/xmanguji)
+[![Free CV Maker with Print-Friendly Responsive Layout](https://github-readme-stats.vercel.app/api/pin/?username=xmanguji&repo=cv)](https://github.com/xmanguji/cv)
+[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=xmanguji&repo=awesome-talents)](https://github.com/xmanguji/awesome-talents)
+[![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=xmanguji&repo=awesome-job-boards)](https://github.com/xmanguji/awesome-job-boards)
 
 ---
 
@@ -217,7 +217,7 @@ Big believer in:
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
+<img src="https://profile-counter.glitch.me/xmanguji/count.svg">
 
 Counting of visitors to this page in this section started from May 1, 2022
 
@@ -225,36 +225,36 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date)](https://star-history.com/#idimetrix/idimetrix&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xmanguji/xmanguji&type=Date)](https://star-history.com/#xmanguji/xmanguji&Date)
 
 ---
 
 ## 🎮 Try pressing the buttons and come back down
 
 <div>
-  <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
+  <a href="https://www.linkedin.com/in/xmanguji" target="_blank">
+  <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/me64.png" width="300" />
  </a>
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" />
+  <a href="https://www.linkedin.com/in/xmanguji?button=2&callback=https://github.com/xmanguji" target="_blank">
+    <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/up.png" width="35" />
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" /></a> <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" />
+  <a href="https://www.linkedin.com/in/xmanguji?button=1&callback=https://github.com/xmanguji" target="_blank"><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/left.png" width="35" /></a>
+  <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/xmanguji?button=0&callback=https://github.com/xmanguji" target="_blank"><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/right.png" width="35" /></a>
+  <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" />
+  <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/xmanguji?button=5&callback=https://github.com/xmanguji" target="_blank"><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/B.png" width="35" /></a>
+  <a href="https://www.linkedin.com/in/xmanguji?button=4&callback=https://github.com/xmanguji" target="_blank"><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/A.png" width="35" /></a> <br />
+  <a href="https://www.linkedin.com/in/xmanguji?button=3&callback=https://github.com/xmanguji" target="_blank">
+    <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/down.png" width="35" />
   </a>
   <br />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
+  <img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/xmanguji?button=6&callback=https://github.com/xmanguji" target="_blank"><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/select.png" height="35" /></a>
+  <a href="https://www.linkedin.com/in/xmanguji?button=7&callback=https://github.com/xmanguji" target="_blank"><img src="https://raw.githubusercontent.com/xmanguji/xmanguji/main/images/start.png" height="35" /></a>
 </div>
 
 <!--   GitHub stats graph -->
@@ -263,40 +263,40 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![xmanguji's github activity graph](https://raw.githubusercontent.com/xmanguji/xmanguji/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
+| ![xmanguji's github stats](https://github-readme-stats.vercel.app/api?username=xmanguji&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmanguji&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xmanguji"></img>
 
 <!-- dark snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
+![xmanguji's github activity graph](https://raw.githubusercontent.com/xmanguji/xmanguji/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
+<!--   grid-snake ![](https://github.com/xmanguji/xmanguji/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/xmanguji-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=xmanguji&show-other-skills=true" width="auto"></img>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/xmanguji-->
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xmanguji&show-other-skills=true" width="auto"></img>
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmanguji" alt="xmanguji" /></a>
 </p>
 
    <!--machine-learning-->
@@ -349,7 +349,7 @@ graph TD;
 
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@idimetrix.github.readme)
+![](https://count.getloli.com/get/@xmanguji.github.readme)
 </br>
 
 [MIT](LICENSE)
@@ -373,10 +373,10 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 <p align="center">
 <a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/idimetrix">
+<a href="https://x.com/xmanguji">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
 </a>
-<a href="https://www.linkedin.com/in/dimetrix">
+<a href="https://www.linkedin.com/in/xmanguji">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://t.me/dmitrii_selikhov">
